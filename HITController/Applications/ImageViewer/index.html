@@ -1,0 +1,41 @@
+<html>
+<!-------------------- H E A D -------------------------->
+<head>
+<SCRIPT LANGUAGE=javascript>
+<!--
+function window_onresize() {
+var y1=window.document.body.clientHeight;
+var x1=window.document.body.clientWidth;
+var x = img.width;
+var y = img.height;
+var scale1=x1/x;
+var scale2=y1/y;
+if(scale1>scale2){
+img.width = x * scale2;
+img.height = y * scale2;
+}else{
+img.width = x * scale1;
+img.height = y * scale1;
+}
+}
+//-->
+
+var QS = new Array;
+if (location.search.length > 1) {
+　var m_Array = location.search.substr(1).split("&"); 
+　for (idx in m_Array) {
+　　QS.push(m_Array[idx].split("="));
+　}
+　　document.write('<IMG id=img style="Z-INDEX: -1; LEFT: 0px; POSITION: absolute; TOP: 0px" src="'+QS[idx][1]+'">');
+}
+
+</SCRIPT>
+</head>
+
+<!-------------------- B O D Y -------------------------->
+<body style="background: #fff; overflow: hidden;" onselectstart="return false"  LANGUAGE=javascript onresize="return window_onresize()" onload="return window_onresize()">
+
+
+
+</body>
+</html>
