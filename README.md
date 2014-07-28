@@ -9,6 +9,6 @@ This applicatioin depends these software.
 *[KissXML](https://github.com/robbinhanson/KissXML)  
 *[Quick Dialog](https://github.com/escoz/QuickDialog.git)  
 
---------------
-  Binnary was already distributed from iTunes Store.
-  [HyperInfoCtrl]()
+=============
+  Binary was already distributed from iTunes Store.
+  [HyperInfoCtrl](https://itunes.apple.com/us/app/hyperinfoctrl/id632399758?mt=8)
