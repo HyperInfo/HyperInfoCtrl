@@ -1,6 +1,6 @@
 HyperInfoCtrl
 =============
-This is HyperInfo Controller for iOS.  
+This is [HyperInfo](http://hyperinfo.viz.media.kyoto-u.ac.jp) Controller for iOS.  
 This applicatioin depends these software.
  
 *[AFNetworking](https://github.com/AFNetworking/AFNetworking.git)  
@@ -8,3 +8,7 @@ This applicatioin depends these software.
 *[CocoaHTTPServer](https://github.com/robbiehanson/CocoaHTTPServer.git)  
 *[KissXML](https://github.com/robbinhanson/KissXML)  
 *[Quick Dialog](https://github.com/escoz/QuickDialog.git)  
+
+--------------
+  Binnary was already distributed from iTunes Store.
+  [HyperInfoCtrl]()
