@@ -1,10 +1,9 @@
 HyperInfoCtrl
 =============
-This is HyperInfo Controller for iOS.
-
+This is HyperInfo Controller for iOS.  
 This applicatioin depends these software.
  
- AFNetworking
+ [AFNetworking](https://github.com/AFNetworking/AFNetworking.git)
  
  CocoaAsyncSocket
  
